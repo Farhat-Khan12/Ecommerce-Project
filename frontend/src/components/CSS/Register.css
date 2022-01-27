@@ -1,0 +1,40 @@
+.side-reg{
+    background-image: url("../../../public/images/dining.webp");
+    background-repeat: no-repeat;
+    height: 720px;
+    width: 100%;
+}
+.reg-title{
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.reg-title-b{
+    color: white;
+    font-weight: bolder;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.reg-page{
+    background-color: lightyellow;
+}
+.btn-danger,.btn-success{
+    margin: 5px;
+}
+.asign{
+    color: darkred;
+}
+.asign:hover{
+    color: darkslateblue;
+}
+.heading{
+    color: darkgray;
+    font-family: cursive;
+}
+.reg-heading{
+    font-family: cursive;
+}
+.label{
+    font-weight: 700;
+}

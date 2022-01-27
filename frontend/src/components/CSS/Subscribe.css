@@ -1,0 +1,57 @@
+.thank_heading{
+    color: darkblue;
+    font-family: cursive;
+    font-weight: bold;
+}
+.thank_message{
+    color: darkgoldenrod;
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+.thank_offer{
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: italic;
+}
+.main-container{
+    background-color: oldlace;
+}
+.btn1,.btn2,.btn3,.btn4,.btn5{
+    height: 120px;
+    width: 100%;
+    background-color: black;
+    margin: 5px;
+}
+.discount_button{
+    background-color: black;
+}
+.title{
+    color: white;
+}
+.living-div{
+    background-image: url("../../../public/images/living.jpg");
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+.study-div{
+    background-image: url("../../../public/images/study.jpg");
+    height: 100px;
+    width: 100%;
+}
+.dining-div{
+    background-image: url("../../../public/images/dining.webp");
+    height: 100px;
+    width: 100%;
+}
+.bedroom-div{
+    background-image: url("../../../public/images/bedroom.jpg");
+    height: 100px;
+    width: 100%;
+}
+.storage-div{
+    background-image: url("../../../public/images/storage.jpg");
+    height: 100px;
+    width: 100%;
+}

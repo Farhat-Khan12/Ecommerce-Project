@@ -1,0 +1,49 @@
+.shipping-details{
+    border: 2px solid darkred;
+    padding: 25px;
+    text-align: center;
+    background-color: darkseagreen;
+}
+.order-details{
+    border: 2px solid darkred;
+    padding: 25px;
+    text-align: center;
+    background-color: darkseagreen;
+}
+.payment-details{
+    border: 2px solid darkred;
+    padding: 25px;
+    text-align: center;
+    background-color: darksalmon;
+}
+.order-summary{
+    border: 2px solid darkred;
+    padding: 25px;
+    text-align: center;
+    background-color: lightgrey;
+}
+h3{
+    font-family: monospace;
+    font-weight: bold;
+    text-decoration: underline;
+    color: darkslategray;
+    text-transform: uppercase;
+    text-align: center;
+}
+.checkout-div{
+    background-image: url("https://t4.ftcdn.net/jpg/02/65/86/05/360_F_265860510_OVJuWgOJ7xQCNF8rLjCy51x2hdKGVTQk.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.order-heading{
+    margin : 5px;
+    color: darkred;
+}
+h5{
+    color: darkslategray;
+    text-align: center;
+}
+.order-button{
+    text-align: center;
+    margin-left: 200px;
+}

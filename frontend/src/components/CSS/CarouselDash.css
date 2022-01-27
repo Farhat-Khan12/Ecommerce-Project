@@ -1,0 +1,43 @@
+.carousel{
+    height: 540px;
+    width: 100%;
+}
+.image{
+    height: 540px;
+}
+.heading1{
+    color: darkolivegreen;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic;
+}
+.para1{
+    color: white;
+    background-color: darkred;
+    border-radius: 20px 0px 20px 0px;
+    border: 2px solid darkred;
+}
+.heading2{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+}
+.para2{
+    color: gainsboro;
+    background-color: black;
+    border-radius: 20px 20px 0px 0px;
+    border: 2px solid black;
+}
+.heading3{
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+.para3{
+    color: black;
+    background-color: orange;
+    border-radius: 20px 0px 20px 0px;
+    border: 2px solid orange;
+}

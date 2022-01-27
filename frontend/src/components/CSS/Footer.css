@@ -1,0 +1,22 @@
+.main-footer-div{
+    background-color: black;
+    color: white;
+    height: 480px;
+    font-size: larger;
+    flex-direction: column;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+   /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+}
+.footer_items{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.footer_items:hover{
+    color: darkgrey;
+}
+.copyright{
+    text-align: center;
+}
